@@ -1,0 +1,20 @@
+@media screen and (max-width: 376px) {
+    div {
+        background-color: aliceblue;
+        font-size: small;
+    }
+}
+
+@media screen and (max-width: 415px) and (min-width: 376px){
+    div {
+        background-color: aqua;
+        font-size: medium;
+    }
+}
+
+@media screen and (max-width: 769px) and (min-width: 415px){
+    div {
+        background-color: blueviolet;
+        font-size: large;
+    }
+}
