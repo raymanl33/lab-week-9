@@ -5,14 +5,14 @@
     }
 }
 
-@media screen and (max-width: 415px) and (min-width: 376px){
+@media screen and (max-width: 1000px) and (min-width: 376px){
     div {
         background-color: aqua;
         font-size: medium;
     }
 }
 
-@media screen and (max-width: 769px) and (min-width: 415px){
+@media screen  and (min-width: 1001px){
     div {
         background-color: blueviolet;
         font-size: large;
